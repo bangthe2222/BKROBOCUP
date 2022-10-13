@@ -1,0 +1,1 @@
+stm32f1_test_xe\startup_stm32f103xb.o: startup_stm32f103xb.s
